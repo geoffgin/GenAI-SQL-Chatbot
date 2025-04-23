@@ -45,7 +45,7 @@ A web chatbot interface for database interactions using natural language questio
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/geoffgin/GenAI-SQL-Chatbot.git]
+git clone https://github.com/geoffgin/GenAI-SQL-Chatbot.git
 cd chat-to-database-chatbot
 ```
 2. Configure environment variables:
