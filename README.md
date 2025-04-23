@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/garyzava/chat-to-database-chatbot">
+  <a href="[https://github.com/geoffgin/GenAI-SQL-Chatbot]">
     <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Hippo GIF" height="60"/>
   </a>
 </p>
